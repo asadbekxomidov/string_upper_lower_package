@@ -1,7 +1,7 @@
 name: string_upper_lower_package
-description: A starting point for Dart libraries or applications.
+description: This package will make your text strings smaller if they are big and bigger if they are small.
 version: 1.0.0
-# repository: https://github.com/asadbekxomidov/string_upper_lower_package
+repository: https://github.com/asadbekxomidov/string_upper_lower_package
 
 environment:
   sdk: ^3.4.4
