@@ -1,6 +1,6 @@
 name: string_upper_lower_package
 description: This package will make your text strings smaller if they are big and bigger if they are small.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/asadbekxomidov/string_upper_lower_package
 
 environment:
